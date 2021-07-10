@@ -1,4 +1,13 @@
-### Hi there 👋
+# Ray tracing project
+___
+![](./images/ray_tracing_1.gif)
+___
+![](./images/after_antialiasing_10)
+___
+![](./images/out_image4x4chr.png)
+___
+![](./images/2_out_image4x4chr.png)
+___
 
 <!--
 **AstonMartinN/AstonMartinN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
