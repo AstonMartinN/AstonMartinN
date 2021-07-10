@@ -1,6 +1,7 @@
 # Ray tracing project
 ___
-![](./images/ray_tracing_1)
+|:-------------------:|
+|![](./images/ray_tracing_1)|
 ___
 ![](./images/after_antialiasing_10)
 ___
