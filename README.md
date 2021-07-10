@@ -1,5 +1,6 @@
 # Ray tracing project
 ___
+| |
 |:-------------------:|
 |![](./images/ray_tracing_1)|
 ___
