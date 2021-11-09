@@ -1,3 +1,10 @@
+### My skills and knowledge
+| | |
+|:---:|:---:|
+| Programming languages: | C, C++, Python, C# |
+| Libraries: | NumPu, SciPy, Scikit-learn, MatPlotlib, Seaborn, Pandas, Qt/PyQt, OpenGL(GLM, freeglut, glfw), OpenCV, NASM |
+| Technologies: | Linux, Git, LaTeX, OpenMP, gnuplot |
+<!--
 # Ray tracing project
 ___
 | |
@@ -10,10 +17,7 @@ ___
 ___
 ![](./images/2_out_image4x4chr.png)
 ___
-
-<!--
 **AstonMartinN/AstonMartinN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
