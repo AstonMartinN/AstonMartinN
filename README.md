@@ -3,7 +3,7 @@
 |:---:|:---:|
 | Programming languages: | C, C++, Python, C# |
 | Libraries: | NumPu, SciPy, Scikit-learn, MatPlotlib, Seaborn, Pandas, Qt/PyQt, OpenGL(GLSL, GLM, freeglut, glfw), OpenCV, NASM |
-| Technologies: | Linux, GDB, Git, LaTeX, OpenMP, gnuplot, cmake |
+| Technologies: | Linux, GDB, Git, LaTeX, OpenMP, gnuplot, cmake, SQL |
 <!--
 # Ray tracing project
 ___
