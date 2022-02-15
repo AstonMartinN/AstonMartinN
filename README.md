@@ -1,9 +1,9 @@
 ### My skills and knowledge
 | | |
 |:---:|:---:|
-| Programming languages: | C, C++, Python, C# |
+| Programming languages: | C, C++, Python |
 | Libraries: | NumPy, SciPy, PyTorch, Scikit-learn, MatPlotlib, Seaborn, Pandas, Qt/PyQt, OpenGL(GLSL, GLM, freeglut, glfw), OpenCV, NASM |
-| Technologies: | Linux, GDB, Git, LaTeX, OpenMP, gnuplot, cmake, SQL |
+| Technologies: | Linux, GDB, Git, LaTeX, OpenMP, gnuplot, cmake |
 <!--
 # Ray tracing project
 ___
